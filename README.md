@@ -1,18 +1,18 @@
 # Soto ayam soep van Indonesie
 ![soto ayam](![image](https://github.com/notsosaltyasiankid/Markdown/assets/144677432/f0625053-971a-4347-89e3-9c6967259615))
 # Ingrediënten
-600 gr kippenbouten of kippenpoten
-1 liter water
-1 kippenbouillonblokje (Maggi)
-1 grote ui
-2 tenen knoflook
-1 x boemboe voor soto ajam
-3 eieren
-150 gr. taugé
-3 aardappels
-50 gr selderij
-200 gr rijst
-100 gr mihoen
+600 gr kippenbouten of kippenpoten,
+1 liter water,
+1 kippenbouillonblokje (Maggi),
+1 grote ui,
+2 tenen knoflook,
+1 x boemboe voor soto ajam,
+3 eieren,
+150 gr. taugé,
+3 aardappels,
+50 gr selderij,
+200 gr rijst,
+100 gr mihoen,
 # Bereiding
 1. Kook de kip ca. 1,5 uur met het water en het bouillonblokje. Haal de kip uit de bouillon en bewaar de bouillon. Haal het vlees van de kip en verwijder de botten.
 
