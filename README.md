@@ -25,3 +25,5 @@
 Tip: gebruik je liever geen kip met bot, neem dan kippendijen. Op de foto zie je welke boemboe ik heb gebruikt (gekocht bij AH) maar je kunt ook een ander merk boemboe nemen of deze zelf maken.
 
 Dit recept is glutenvrij mits de bouillon en boemboe ook glutenvrij is.
+
+bron = https://www.leukerecepten.nl/recepten/soto/
