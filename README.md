@@ -1,5 +1,5 @@
 # Soto ayam soep van Indonesie
-![soto ayam](![image](https://github.com/notsosaltyasiankid/Markdown/assets/144677432/f0625053-971a-4347-89e3-9c6967259615))
+![soto ayam](https://github.com/notsosaltyasiankid/Markdown/assets/144677432/f0625053-971a-4347-89e3-9c6967259615)
 # Ingrediënten
 600 gr kippenbouten of kippenpoten,
 1 liter water,
